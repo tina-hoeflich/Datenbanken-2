@@ -1,0 +1,6 @@
+Unterschied zwischen ResultSetMetaData und DatabaseMetaData
+
+DatabaseMetaData:
+Informationen über die Datenbank, welche Tabellen es gibt, etc
+ResultSetMetaData:
+Informationen über die Inhalte der Tabelle, wie z.b. die Spaltennamen, etc
